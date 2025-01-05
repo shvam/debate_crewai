@@ -2,4 +2,4 @@ crewai
 streamlit
 litellm
 nest_asyncio
-pysqlite3-binary 0.5.4
+pysqlite3-binary
