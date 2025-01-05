@@ -1,0 +1,1 @@
+A debate chat application using CrewAI and Streamlit.

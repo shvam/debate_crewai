@@ -1,0 +1,4 @@
+crewai
+streamlit
+litellm
+nest_asyncio
