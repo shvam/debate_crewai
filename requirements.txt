@@ -2,4 +2,3 @@ crewai
 streamlit
 litellm
 nest_asyncio
-sqlite3
