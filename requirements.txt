@@ -1,4 +1,5 @@
 crewai
+crewai.flow
 streamlit == 1.28.1
 litellm
 nest_asyncio
